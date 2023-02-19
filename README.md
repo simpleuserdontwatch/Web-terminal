@@ -10,4 +10,11 @@
 <img src="preview.png">
 <h1>User table</h1>
 <table><thead><tr><th>Login</th><th>Password</th><th>Desc</th><th>Devs use?</th></tr></thead><tbody><tr><td>user</td><td>123</td><td>A normal user for new</td><td>yes</td></tr><tr><td>root</td><td>toor</td><td>Root mode. (no su)</td><td>yes (sometimes)</td></tr><tr><td>123</td><td>123</td><td>a basic user</td><td>no</td></tr><tr><td>abcd</td><td>efgh</td><td>a basic user</td><td>no</td></tr><tr><td>login</td><td>password</td><td>for these who dont know</td><td>no</td></tr></tbody></table>
-<h5>one more note: this is from replit.<h5>
+<h5>one more note: this is from replit.</h5>
+<h1>not working?</h1>
+<h5>try installing these programs: </h5>
+<ul>
+  <li>Python</li>
+  <li>ttyd</li>
+  <li>bash</li>
+</ul>
