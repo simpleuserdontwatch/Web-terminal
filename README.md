@@ -18,5 +18,8 @@
   <li>ttyd</li>
   <li>bash</li>
 </ul>
+<h1>how to run?</h1>
+<h5>Simply you can just type this</h5>
+<code>bash main.sh</code>
 <h1>Dont want run on main machine?</h1>
 <h5>then try out a </h5><a href="https://Web-terminal.kirillutusikov.repl.co">online version</a>
