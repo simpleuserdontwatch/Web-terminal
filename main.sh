@@ -1,0 +1,1 @@
+ttyd bash ws.sh -t enableSixel=true enableTrzsz=true enableZmodem=true -o  -d 1
