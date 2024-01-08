@@ -18,6 +18,12 @@
   <li>ttyd</li>
   <li>bash</li>
 </ul>
+\
+\
+\
+\
+\
+i wanna die
 <h1>how to run?</h1>
 <h5>Simply you can just type this</h5>
 <code>bash main.sh</code>
